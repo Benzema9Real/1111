@@ -1,5 +1,5 @@
 import requests
-url = 'http://188.225.26.121:84/api/v1/taskput/14'
+url = 'http://127.0.0.1:8000/api/v1/taskput/14'
 data = {
     "title": "ff",
     "description": "ffffffffddfff",
